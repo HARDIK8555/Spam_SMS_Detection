@@ -1,0 +1,14 @@
+TEST MESSAGES FOR SPAM DETECTION
+
+1.  Congratulations! You have won a free iPhone. Click the link now.
+    [Spam]
+2.  Hey, are you coming to college tomorrow? [Not Spam]
+3.  URGENT! Your bank account will be blocked. Verify immediately.
+    [Spam]
+4.  Let’s meet at 5 PM near the library. [Not Spam]
+5.  Win cash prize now! Call 09061701461 [Spam]
+6.  Dinner plan tonight? [Not Spam]
+7.  Free recharge offer available, claim now! [Spam]
+8.  Please submit the assignment before deadline. [Not Spam]
+9.  You are selected for a lucky draw reward. [Spam]
+10. Can you send me the notes from today’s class? [Not Spam]
